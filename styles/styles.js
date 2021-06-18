@@ -7,6 +7,11 @@ const styles = StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
     },
+    separator: {
+      height: 40,
+      width: "100%",
+      backgroundColor: "orange"
+    }
 });
 
 export default styles;
